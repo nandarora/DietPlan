@@ -1,0 +1,58 @@
+.App {
+  text-align: center;
+  background-color: black;
+}
+
+#navigation{
+  background-color: black;
+  color: gold;
+}
+#toggle{
+  text-align: right;
+}
+#ka{
+  color: gold;
+  
+  
+}
+
+a{
+  color: gold;
+  text-decoration-line: none;
+}
+.break{
+  text-align: left;
+  color: white;
+  background-color: black;
+}
+.g{
+  color: gold;
+}
+label{
+  display: block;
+}
+input{
+  display: block;
+}
+
+#links{
+  text-align: right;
+  
+}
+.link{
+  margin: 0px 10px;
+  
+}
+.link:hover{
+  color:black;
+  background-color: gold
+  
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

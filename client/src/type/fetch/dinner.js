@@ -1,0 +1,2 @@
+const FETCH_DINNER = 'FETCH_DINNER';
+export default FETCH_DINNER;
